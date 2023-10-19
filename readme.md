@@ -38,7 +38,7 @@ _You can copy and paste these checklists into your new repository and fill them 
 
 ### Typescript Specific Requirements
 
-- [ ] pass **ALL** typechecks
+- [x] pass **ALL** typechecks
   - Check by running `npm run typecheck`
 - DON'T USE `any`.... OR ELSE
 - Keep your types clean and in a logical location
@@ -47,14 +47,14 @@ _You can copy and paste these checklists into your new repository and fill them 
 
 ### Assignment Specific Requirements
 
-- [ ] The state of a traffic light should go in the following order and repeat indefinitely
+- [x] The state of a traffic light should go in the following order and repeat indefinitely
   - Red, Green, Yellow
   - If the color is red, and you click `nextState`, the light should change to green
   - If the color is green, and you click `nextState`, the light should change to yellow
   - If the color is yellow, and you click `nextState`, the light should change to red
-- [ ] The correct circle should correspond with the correct position
+- [x] The correct circle should correspond with the correct position
   - red light should be the top light
   - yellow light should be the middle light
   - green light should be the bottom light
-- [ ] Next State button should go to the next state on the functional traffic light
-- [ ] Next State button should go to the next state on the class based traffic light
+- [x] Next State button should go to the next state on the functional traffic light
+- [x] Next State button should go to the next state on the class based traffic light
